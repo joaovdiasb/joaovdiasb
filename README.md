@@ -1,3 +1,5 @@
+ <a href="https://www.linkedin.com/in/jvbittencourt/" target="_blank"><img src="https://img.shields.io/badge/-Jo%C3%A3o%20Bittencourt-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvbittencourt/" width="150"></a>   <a href="mailto:j.v_dias@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-joaovdiasb@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovdiasb@gmail.com" width="198"></a>
+
 ## :computer: Hard skills
 | Skill  |  Exp  |
 | :---:  | :---:  |
@@ -8,8 +10,5 @@
 | Node  |  ![](https://progress-bar.dev/6/?scale=10&suffix=/10)  |
 | Ubuntu  |  ![](https://progress-bar.dev/7/?scale=10&suffix=/10)  |
 | MySQL  |  ![](https://progress-bar.dev/08/?scale=10&suffix=/10)  |
-
-## :envelope: Contato
- <a href="https://www.linkedin.com/in/jvbittencourt/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="100"></a>   <a href="mailto:j.v_dias@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" width="80"></a>
 
 
